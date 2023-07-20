@@ -1,2 +1,2 @@
-# Python_data_projects
-Data analysis and Machine learning project done with python
+# Python data projects
+Data analysis, webscraping and Machine learning projects done with python
